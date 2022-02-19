@@ -1,0 +1,11 @@
+{
+  "name": "dropdownmenu",
+  "description": "A javascript library for create drop down menu in your app.",
+  "version": "1.0.0",
+  "main": "/dist/index.js",
+  "scripts": {
+  },
+  "keywords": ["dropdownmenu", "dropdown", "menu", "html", "css"],
+  "author": "Mksk",
+  "license": "MIT"
+}
