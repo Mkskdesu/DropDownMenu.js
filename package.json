@@ -1,11 +1,16 @@
 {
-  "name": "dropdownmenu",
+  "name": "html-dropdown-menu",
   "description": "A javascript library for create drop down menu in your app.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "/dist/index.js",
   "scripts": {
   },
   "keywords": ["dropdownmenu", "dropdown", "menu", "html", "css"],
-  "author": "Mksk",
-  "license": "MIT"
+  "author": "mksk",
+  "license": "MIT",
+  "homepage": "https://github.com/Mkskdesu/DropDownMenu.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Mkskdesu/DropDownMenu.js.git"
+}
 }

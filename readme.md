@@ -11,11 +11,11 @@ A javascript library for create drop down menu in your app.
 # install
 ### script
 `<script src="path/to/dist/index.min.js"></script>`
-`<script src="https://unpkg.com/dropdown/dist/index.min.js"><script>`
+`<script src="https://unpkg.com/html-dropdown-menu/dist/index.min.js"><script>`
 
 ### CSS
 `<link rel="stylesheet" href="path/to/dist/style.css">`
-`<link rel="stylesheet" href="https://unpkg.com/dropdown/dist/dropdown.css">`
+`<link rel="stylesheet" href="https://unpkg.com/html-dropdown-menu/dist/dropdown.css">`
 
 # How To Use
 
