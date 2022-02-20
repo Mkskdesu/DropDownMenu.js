@@ -34,6 +34,10 @@
 	animation: showmenucontents 0.2s ease-out forwards;
 }
 
+.dropdown-category .dropdown-category{
+	width: 100%;
+}
+
 .dropdown-title{
     display: inline-block;
     width: 100%;
